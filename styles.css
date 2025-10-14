@@ -1,0 +1,51 @@
+nav {
+    font-family: "Literata", serif;
+    /* font-family: 'Loved by the King'; */
+
+}
+
+body {
+    padding: 10px;
+    text-align: center;
+    /* background-color:gray; */
+    font-family: "Roboto", serif;
+    /* font-family: 'Loved by the King'; */
+
+}
+
+h1 {
+    color: black;
+    font-family: 'Literata';
+}
+
+footer {
+    /* font-family: 'Loved by the King'; */
+    font-family: 'Pompiere';
+    text-align: right;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    padding: 10px 20px 10px 10px; 
+
+}
+
+td, tr, th {
+    height: 50px;
+
+}
+
+button {
+    border-radius: 5px;
+    position: relative;
+    top: 5px;
+    left: 5px;
+    margin: 2%;
+    z-index: 100;
+    display: grid;
+}
+
+label {
+    font-weight: bold;
+}
